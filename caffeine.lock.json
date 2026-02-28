@@ -1,0 +1,18 @@
+{
+  "templates": {
+    "declaration_generator": "blob-10",
+    "build_template": "1.0.0"
+  },
+  "components": {
+    "authorization": "4.0.0",
+    "http-outcalls": "3.0.0",
+    "stripe": "4.0.0",
+    "core-infrastructure": "1.0.0",
+    "shadcn-ui": "1.0.0",
+    "build-template-react": "1.0.0",
+    "initial-app": "1.0.0"
+  },
+  "aiCoreVersion": "0.16.0",
+  "motokoVersion": "1.0.0-beta",
+  "coreLibVersion": "implicits-20"
+}

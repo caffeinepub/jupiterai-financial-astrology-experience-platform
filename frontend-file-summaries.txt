@@ -1,0 +1,15 @@
+{
+  "frontend/src/App.tsx": "Main application component with TanStack Router setup, theme provider, and route definitions for home, report, payment success, and payment cancel pages.",
+  "frontend/src/components/Layout.tsx": "Root layout component with cosmic background image, header, main content outlet, and footer.",
+  "frontend/src/components/Header.tsx": "Navigation header with JupiterAI logo, branding, and Internet Identity login/logout functionality.",
+  "frontend/src/components/Footer.tsx": "Footer component with copyright notice, caffeine.ai attribution, and entertainment disclaimer.",
+  "frontend/src/components/BirthDataForm.tsx": "Form component for collecting user birth data including date, time accuracy, place, and reference chart selection with updated reference chart information (Fiat Money: Aug 8, 2971, Washington DC; Bitcoin: Jan 3, 2009, Temple City, Cali).",
+  "frontend/src/components/ProfileSetupModal.tsx": "Modal dialog for first-time user profile setup to collect user's name.",
+  "frontend/src/pages/HomePage.tsx": "Landing page with authentication gate, birth data form, and feature highlights for financial astrology reports (removed profile setup modal functionality).",
+  "frontend/src/pages/ReportPage.tsx": "Detailed report page displaying financial astrology analysis with tabs for strengths, season, action plan, timing, and premium upgrade option.",
+  "frontend/src/pages/PaymentSuccessPage.tsx": "Payment confirmation page showing successful transaction details and return navigation.",
+  "frontend/src/pages/PaymentCancelPage.tsx": "Payment cancellation page with navigation options back to report or home.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for backend operations including report fetching, checkout, and payment success handling (removed profile management hooks that don't exist in backend).",
+  "frontend/src/index.css": "Global styles with OKLCH color system including custom cosmic theme colors (pink, purple, turquoise) for light and dark modes.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended cosmic color palette and custom utilities for the financial astrology theme."
+}
